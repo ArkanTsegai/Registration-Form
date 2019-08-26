@@ -1,0 +1,27 @@
+fieldset{
+    width:60%;
+    margin-left: 3px;
+}
+
+legend{
+    margin-left: 43%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px
+}
+
+label{
+    display: block;
+    padding:10px;
+}
+
+input[type="text"], input[type="date"], input[type="email"], input[type="number"]{
+    padding:8px;
+    width: 90%;
+}
+
+input[type="submit"]{
+    margin-left: 45%;
+    display: block;
+    margin-top: 20px;
+    font-size: 16px;
+}
